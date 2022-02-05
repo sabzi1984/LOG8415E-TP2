@@ -1,1 +1,1 @@
-This project is about MapReduce approach for wordcount and also a program of friend suggestion using Pyspark and Hadoop. Word count program were performed using pyspark and friend suggestion was performed using Hadoop. All the codes were implemented in Azure Microsoft
+This project is about MapReduce approach for wordcount and also a program of friend suggestion using Pyspark and Hadoop. Word count program were performed using pyspark and friend suggestion was performed using Hadoop. All the codes were implemented in Azure Microsoft. This project is a homework for LOG8415.
